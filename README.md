@@ -5,7 +5,7 @@ A simulated Project Management Office (PMO) governance project built in Azure De
 This project was built to demonstrate end-to-end PMO execution in a government health IT context - backlog structure, work item governance, RAID management, executive reporting, and project documentation.
 
 Disclaimer: This is an independent portfolio simulation. It is not affiliated with any software/company or any state agency. It does not use proprietary data, internal documentation, client materials, or non-public system knowledge. The scenario is based on publicly available health IT context and the PMO responsibilities.
----
+
 
 ## What this project is
 
